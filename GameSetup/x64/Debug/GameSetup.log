@@ -1,0 +1,53 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (KonohaProject.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  game.cpp
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(15,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(15,10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(40,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(40,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(50,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(50,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(60,70): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(60,52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(62,53): warning C4390: ';': empty controlled statement found; is this the intent?
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(185,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(190,55): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(190,35): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(500,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(501,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(505,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\asus\source\repos\GameSetup\GameSetup\game.cpp(507,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  main.cpp
+  Generating Code...
+  GameSetup.vcxproj -> C:\Users\asus\source\repos\GameSetup\x64\Debug\GameSetup.exe
